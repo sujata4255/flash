@@ -1,0 +1,109 @@
+.loginwindow{
+	width:600px;
+	height:350px;
+	background-color:teal;
+	margin-left:400px;
+	margin-top:50px;
+}
+.loginwindow ul{
+	list-style-type:none;
+	padding:10px;
+	position:absolute;
+	margin:70px;
+}
+.loginwindow ul li {
+	
+	padding:10px;
+}
+
+.logincontrol{
+	width:400px;
+	height:40px;
+	
+}
+
+.maincontainer{
+	width:100%;
+	height:1000px;
+	
+	
+}
+
+.header{
+	width:100%;
+	height:100px;
+	background-color:teal;
+	padding:30px;
+	color:white;
+	font-size:36px;
+	font-family:sans-serif;
+	text-align:center;
+}
+
+.lefthandmenu{
+	width:20%;
+	height:640px;
+	background-color:teal;
+	float:left;
+	
+}
+.lefthandmenu ul{
+	list-style-type:none;
+}
+
+.lefthandmenu ul li {
+	padding:10px;
+	color:white;
+	font-size:26px;
+}
+
+.lefthandmenu ul li a {
+	
+}
+.jobmaster {
+	padding:10px;
+}
+
+.jobmaster .innermenu{
+	display:none;
+	
+}
+
+.jobmaster:hover .innermenu{
+	display:block;
+	padding:10px;
+}
+
+.innermenu ul li a{
+	text-decoration:none;
+	color:white;
+}
+
+.formarea{
+	width:75%;
+	height:625px;
+	
+	margin-left:22%;
+
+}
+
+.formarea ul{
+	list-style-type:none;
+	
+}
+.formarea ul li {
+	padding:10px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
